@@ -7,6 +7,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Use emojis in explanations, summaries and replies 🎯
 - Keep explanations simple and easy to understand: plain words, short sentences, no jargon unless it's needed (and explain it when it is) 🙂
 
+## This repo is for video only
+
+- **The live website is `d:\rk-react-projects\niticore-website-v2`.** Read site copy, content JSON, components and assets from there (for example `src/content/event.json`, `src/app/(site)/announcements`). The site code in this repo's `src/` is old; don't take content from it.
+- **This repo is now used only for video generation**, in `video/` (motion-reel films such as `video/niticore-flow`, rendered to `video/out/`).
+- The site notes below describe this repo's old copy of the site. Its design rules (colours, type, sentence case, no eyebrows, no status dots) still apply to the videos.
+
 ## What this is
 
 Niticore is a multi-page marketing site for an AI governance platform. In site copy the brand is spelled "Niticore", not "NitiCore". The site is presentational (no data layer or auth), with one exception: Book a demo sends email through Resend from a Server Action (see "Book a demo emails" below). Its value is in the visual design and scroll animation.

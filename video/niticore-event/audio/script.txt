@@ -1,0 +1,14 @@
+# Niticore at AI Everything Abu Dhabi: the narrator (tts.py makes pNN.wav, score.py places them on beats)
+# [ABC] is spelled out letter by letter
+Niticore.
+AI governance, from policy to proof.
+See you at stands
+[H] three,
+[P] zero one nine,
+and [H] three,
+[P] zero two zero.
+We're at AI Everything Abu Dhabi.
+Come and see Niticore live, at our stand.
+Take the free, five-minute readiness diagnostic.
+Or sit down with our team for a guided walkthrough of the platform.
+Meet Niticore on the sixth and seventh of October, at Adnec Centre, Abu Dhabi.

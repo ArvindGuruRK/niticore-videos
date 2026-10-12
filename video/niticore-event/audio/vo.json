@@ -1,0 +1,86 @@
+[
+ {
+  "i": 7,
+  "beat": 4.4,
+  "t0": 2.357,
+  "t1": 4.457,
+  "text": "We're at AI Everything Abu Dhabi."
+ },
+ {
+  "i": 8,
+  "beat": 10.4,
+  "t0": 5.571,
+  "t1": 7.941,
+  "text": "Come and see Niticore live, at our stand."
+ },
+ {
+  "i": 9,
+  "beat": 18.4,
+  "t0": 9.857,
+  "t1": 12.963,
+  "text": "Take the free, five-minute readiness diagnostic."
+ },
+ {
+  "i": 10,
+  "beat": 26.3,
+  "t0": 14.089,
+  "t1": 17.859,
+  "text": "Or sit down with our team for a guided walkthrough of the platform."
+ },
+ {
+  "i": 11,
+  "beat": 34.8,
+  "t0": 18.643,
+  "t1": 23.808,
+  "text": "Meet Niticore on the sixth and seventh of October, at Adnec Centre, Abu Dhabi."
+ },
+ {
+  "i": 0,
+  "beat": 45.6,
+  "t0": 24.429,
+  "t1": 25.319,
+  "text": "Niticore."
+ },
+ {
+  "i": 1,
+  "beat": 47.6,
+  "t0": 25.5,
+  "t1": 27.82,
+  "text": "AI governance, from policy to proof."
+ },
+ {
+  "i": 2,
+  "beat": 52.4,
+  "t0": 28.071,
+  "t1": 29.121,
+  "text": "See you at stands"
+ },
+ {
+  "i": 3,
+  "beat": 54.6,
+  "t0": 29.25,
+  "t1": 30.04,
+  "text": "[H] three,"
+ },
+ {
+  "i": 4,
+  "beat": 56.5,
+  "t0": 30.268,
+  "t1": 31.618,
+  "text": "[P] zero one nine,"
+ },
+ {
+  "i": 5,
+  "beat": 59.2,
+  "t0": 31.714,
+  "t1": 32.634,
+  "text": "and [H] three,"
+ },
+ {
+  "i": 6,
+  "beat": 61.1,
+  "t0": 32.732,
+  "t1": 34.102,
+  "text": "[P] zero two zero."
+ }
+]
