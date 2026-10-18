@@ -1,0 +1,21 @@
+# Niticore for healthcare V2: the narrator (tts.py makes pNN.wav, score.py places them on beats)
+# p00-p12 are V1's takes (p00-p02, p10, p11 the launch film's own); p14 is the TIME Medical film's take (its p06). After running tts.py, copy those back. p08 is unused in V2.
+The world is accelerating with AI.
+Now, AI needs governance built for what's next.
+Introducing Niticore.
+In healthcare, AI agents now support diagnosis, triage and drug discovery.
+Models no one validated.
+Agents acting on their own.
+Patient data at risk.
+And regulators and hospitals now ask for proof.
+Niticore governs every model and agent: risk assessed, people in the loop, evidence ready for every audit.
+So you can scale healthcare AI with confidence, and prove it.
+Niticore.
+AI governance, from policy to proof.
+But governance hasn't kept pace.
+And the regulatory clock is already ticking.
+But the bigger risk is losing business before a regulator ever comes knocking.
+Niticore governs every model and agent, in one place.
+Every risk, assessed.
+Keep people in the loop when it matters most.
+Evidence ready for every audit and tender.

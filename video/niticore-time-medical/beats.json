@@ -1,0 +1,260 @@
+{
+ "bpm": 96.0,
+ "period": 0.625,
+ "offset": 0.0,
+ "beats": [
+  0.0,
+  0.625,
+  1.25,
+  1.875,
+  2.5,
+  3.125,
+  3.75,
+  4.375,
+  5.0,
+  5.625,
+  6.25,
+  6.875,
+  7.5,
+  8.125,
+  8.75,
+  9.375,
+  10.0,
+  10.625,
+  11.25,
+  11.875,
+  12.5,
+  13.125,
+  13.75,
+  14.375,
+  15.0,
+  15.625,
+  16.25,
+  16.875,
+  17.5,
+  18.125,
+  18.75,
+  19.375,
+  20.0,
+  20.625,
+  21.25,
+  21.875,
+  22.5,
+  23.125,
+  23.75,
+  24.375,
+  25.0,
+  25.625,
+  26.25,
+  26.875,
+  27.5,
+  28.125,
+  28.75,
+  29.375,
+  30.0,
+  30.625,
+  31.25,
+  31.875,
+  32.5,
+  33.125,
+  33.75,
+  34.375,
+  35.0,
+  35.625,
+  36.25,
+  36.875,
+  37.5,
+  38.125,
+  38.75,
+  39.375,
+  40.0,
+  40.625,
+  41.25,
+  41.875,
+  42.5,
+  43.125,
+  43.75,
+  44.375,
+  45.0,
+  45.625,
+  46.25,
+  46.875,
+  47.5,
+  48.125,
+  48.75,
+  49.375,
+  50.0,
+  50.625,
+  51.25,
+  51.875,
+  52.5
+ ],
+ "downbeats": [
+  0.0,
+  2.5,
+  5.0,
+  7.5,
+  10.0,
+  12.5,
+  15.0,
+  17.5,
+  20.0,
+  22.5,
+  25.0,
+  27.5,
+  30.0,
+  32.5,
+  35.0,
+  37.5,
+  40.0,
+  42.5,
+  45.0,
+  47.5,
+  50.0,
+  52.5
+ ],
+ "sections": [
+  {
+   "name": "logo",
+   "beat": 0
+  },
+  {
+   "name": "two tracks",
+   "beat": 8.2
+  },
+  {
+   "name": "clock",
+   "beat": 19.6
+  },
+  {
+   "name": "bigger risk",
+   "beat": 28
+  },
+  {
+   "name": "niticore",
+   "beat": 39
+  },
+  {
+   "name": "outcomes",
+   "beat": 54.4
+  },
+  {
+   "name": "question",
+   "beat": 64.6
+  },
+  {
+   "name": "end",
+   "beat": 74.2
+  }
+ ],
+ "duration": 52.5,
+ "designed_bpm": 96.0,
+ "vo": [
+  {
+   "i": 0,
+   "beat": 1.0,
+   "t0": 0.625,
+   "t1": 3.235,
+   "text": "Time Medical is a Make-in-India imaging maker."
+  },
+  {
+   "i": 1,
+   "beat": 5.75,
+   "t0": 3.594,
+   "t1": 5.612,
+   "text": "Its growth now runs on two tracks."
+  },
+  {
+   "i": 2,
+   "beat": 9.25,
+   "t0": 5.781,
+   "t1": 6.951,
+   "text": "India, to scale."
+  },
+  {
+   "i": 3,
+   "beat": 11.5,
+   "t0": 7.188,
+   "t1": 8.877,
+   "text": "Europe, to build credibility."
+  },
+  {
+   "i": 4,
+   "beat": 14.75,
+   "t0": 9.219,
+   "t1": 11.706,
+   "text": "Two markets. Two regulatory landscapes."
+  },
+  {
+   "i": 5,
+   "beat": 20.5,
+   "t0": 12.812,
+   "t1": 15.283,
+   "text": "And the window to get governance right is shrinking."
+  },
+  {
+   "i": 6,
+   "beat": 29.0,
+   "t0": 18.125,
+   "t1": 22.535,
+   "text": "But the bigger risk is losing business before a regulator ever comes knocking."
+  },
+  {
+   "i": 7,
+   "beat": 39.0,
+   "t0": 24.375,
+   "t1": 26.165,
+   "text": "This is where Niticore comes in."
+  },
+  {
+   "i": 8,
+   "beat": 42.5,
+   "t0": 26.562,
+   "t1": 33.182,
+   "text": "One platform for AI risk, validation evidence, controls and monitoring, across India and Europe."
+  },
+  {
+   "i": 9,
+   "beat": 55.5,
+   "t0": 34.688,
+   "t1": 36.078,
+   "text": "Protect market access."
+  },
+  {
+   "i": 10,
+   "beat": 58.25,
+   "t0": 36.406,
+   "t1": 38.308,
+   "text": "Strengthen hospital confidence."
+  },
+  {
+   "i": 11,
+   "beat": 61.75,
+   "t0": 38.594,
+   "t1": 40.134,
+   "text": "Grow across both markets."
+  },
+  {
+   "i": 12,
+   "beat": 66.0,
+   "t0": 41.25,
+   "t1": 45.53,
+   "text": "Build AI governance in now, or find the gaps when a tender is on the line."
+  },
+  {
+   "i": 13,
+   "beat": 74.6,
+   "t0": 46.625,
+   "t1": 47.515,
+   "text": "Niticore."
+  },
+  {
+   "i": 14,
+   "beat": 77.0,
+   "t0": 48.125,
+   "t1": 50.445,
+   "text": "AI governance, from policy to proof."
+  }
+ ],
+ "source": "niticore-time-medical/audio/score.py, 96 bpm, D major (the launch film's family)"
+}

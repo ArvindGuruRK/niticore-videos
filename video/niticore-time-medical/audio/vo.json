@@ -1,0 +1,107 @@
+[
+ {
+  "i": 0,
+  "beat": 1.0,
+  "t0": 0.625,
+  "t1": 3.235,
+  "text": "Time Medical is a Make-in-India imaging maker."
+ },
+ {
+  "i": 1,
+  "beat": 5.75,
+  "t0": 3.594,
+  "t1": 5.612,
+  "text": "Its growth now runs on two tracks."
+ },
+ {
+  "i": 2,
+  "beat": 9.25,
+  "t0": 5.781,
+  "t1": 6.951,
+  "text": "India, to scale."
+ },
+ {
+  "i": 3,
+  "beat": 11.5,
+  "t0": 7.188,
+  "t1": 8.877,
+  "text": "Europe, to build credibility."
+ },
+ {
+  "i": 4,
+  "beat": 14.75,
+  "t0": 9.219,
+  "t1": 11.706,
+  "text": "Two markets. Two regulatory landscapes."
+ },
+ {
+  "i": 5,
+  "beat": 20.5,
+  "t0": 12.812,
+  "t1": 15.283,
+  "text": "And the window to get governance right is shrinking."
+ },
+ {
+  "i": 6,
+  "beat": 29.0,
+  "t0": 18.125,
+  "t1": 22.535,
+  "text": "But the bigger risk is losing business before a regulator ever comes knocking."
+ },
+ {
+  "i": 7,
+  "beat": 39.0,
+  "t0": 24.375,
+  "t1": 26.165,
+  "text": "This is where Niticore comes in."
+ },
+ {
+  "i": 8,
+  "beat": 42.5,
+  "t0": 26.562,
+  "t1": 33.182,
+  "text": "One platform for AI risk, validation evidence, controls and monitoring, across India and Europe."
+ },
+ {
+  "i": 9,
+  "beat": 55.5,
+  "t0": 34.688,
+  "t1": 36.078,
+  "text": "Protect market access."
+ },
+ {
+  "i": 10,
+  "beat": 58.25,
+  "t0": 36.406,
+  "t1": 38.308,
+  "text": "Strengthen hospital confidence."
+ },
+ {
+  "i": 11,
+  "beat": 61.75,
+  "t0": 38.594,
+  "t1": 40.134,
+  "text": "Grow across both markets."
+ },
+ {
+  "i": 12,
+  "beat": 66.0,
+  "t0": 41.25,
+  "t1": 45.53,
+  "text": "Build AI governance in now, or find the gaps when a tender is on the line."
+ },
+ {
+  "i": 13,
+  "beat": 74.6,
+  "t0": 46.625,
+  "t1": 47.515,
+  "text": "Niticore."
+ },
+ {
+  "i": 14,
+  "beat": 77.0,
+  "t0": 48.125,
+  "t1": 50.445,
+  "text": "AI governance, from policy to proof."
+ }
+]

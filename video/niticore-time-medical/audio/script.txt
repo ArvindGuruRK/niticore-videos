@@ -1,0 +1,17 @@
+# Niticore for TIME Medical: the narrator (tts.py makes pNN.wav, score.py places them on beats)
+# Copy: the approved script, video/time-medical-pitch-script.md. p13 and p14 are the launch film's own takes (niticore-flow p51, p52).
+Time Medical is a Make-in-India imaging maker.
+Its growth now runs on two tracks.
+India, to scale.
+Europe, to build credibility.
+Two markets. Two regulatory landscapes.
+And the window to get governance right is shrinking.
+But the bigger risk is losing business before a regulator ever comes knocking.
+This is where Niticore comes in.
+One platform for AI risk, validation evidence, controls and monitoring, across India and Europe.
+Protect market access.
+Strengthen hospital confidence.
+Grow across both markets.
+Build AI governance in now, or find the gaps when a tender is on the line.
+Niticore.
+AI governance, from policy to proof.

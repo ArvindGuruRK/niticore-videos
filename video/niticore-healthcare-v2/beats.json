@@ -1,0 +1,312 @@
+{
+ "bpm": 96.0,
+ "period": 0.625,
+ "offset": 0.0,
+ "beats": [
+  0.0,
+  0.625,
+  1.25,
+  1.875,
+  2.5,
+  3.125,
+  3.75,
+  4.375,
+  5.0,
+  5.625,
+  6.25,
+  6.875,
+  7.5,
+  8.125,
+  8.75,
+  9.375,
+  10.0,
+  10.625,
+  11.25,
+  11.875,
+  12.5,
+  13.125,
+  13.75,
+  14.375,
+  15.0,
+  15.625,
+  16.25,
+  16.875,
+  17.5,
+  18.125,
+  18.75,
+  19.375,
+  20.0,
+  20.625,
+  21.25,
+  21.875,
+  22.5,
+  23.125,
+  23.75,
+  24.375,
+  25.0,
+  25.625,
+  26.25,
+  26.875,
+  27.5,
+  28.125,
+  28.75,
+  29.375,
+  30.0,
+  30.625,
+  31.25,
+  31.875,
+  32.5,
+  33.125,
+  33.75,
+  34.375,
+  35.0,
+  35.625,
+  36.25,
+  36.875,
+  37.5,
+  38.125,
+  38.75,
+  39.375,
+  40.0,
+  40.625,
+  41.25,
+  41.875,
+  42.5,
+  43.125,
+  43.75,
+  44.375,
+  45.0,
+  45.625,
+  46.25,
+  46.875,
+  47.5,
+  48.125,
+  48.75,
+  49.375,
+  50.0,
+  50.625,
+  51.25,
+  51.875,
+  52.5,
+  53.125,
+  53.75,
+  54.375,
+  55.0,
+  55.625,
+  56.25,
+  56.875,
+  57.5,
+  58.125,
+  58.75,
+  59.375,
+  60.0,
+  60.625,
+  61.25,
+  61.875,
+  62.5,
+  63.125,
+  63.75,
+  64.375
+ ],
+ "downbeats": [
+  0.0,
+  2.5,
+  5.0,
+  7.5,
+  10.0,
+  12.5,
+  15.0,
+  17.5,
+  20.0,
+  22.5,
+  25.0,
+  27.5,
+  30.0,
+  32.5,
+  35.0,
+  37.5,
+  40.0,
+  42.5,
+  45.0,
+  47.5,
+  50.0,
+  52.5,
+  55.0,
+  57.5,
+  60.0,
+  62.5
+ ],
+ "sections": [
+  {
+   "name": "intro",
+   "beat": 0
+  },
+  {
+   "name": "logo",
+   "beat": 16
+  },
+  {
+   "name": "verse",
+   "beat": 20
+  },
+  {
+   "name": "bridge",
+   "beat": 29.5
+  },
+  {
+   "name": "risks",
+   "beat": 32.5
+  },
+  {
+   "name": "bigger risk",
+   "beat": 47.2
+  },
+  {
+   "name": "niticore",
+   "beat": 61.2
+  },
+  {
+   "name": "three together",
+   "beat": 82.6
+  },
+  {
+   "name": "pause",
+   "beat": 89.2
+  },
+  {
+   "name": "end",
+   "beat": 93.2
+  }
+ ],
+ "duration": 64.375,
+ "designed_bpm": 96.0,
+ "vo": [
+  {
+   "i": 0,
+   "beat": 2,
+   "t0": 1.25,
+   "t1": 3.27,
+   "text": "The world is accelerating with AI."
+  },
+  {
+   "i": 1,
+   "beat": 7,
+   "t0": 4.375,
+   "t1": 7.255,
+   "text": "Now, AI needs governance built for what's next."
+  },
+  {
+   "i": 2,
+   "beat": 15,
+   "t0": 9.375,
+   "t1": 10.815,
+   "text": "Introducing Niticore."
+  },
+  {
+   "i": 3,
+   "beat": 20.5,
+   "t0": 12.812,
+   "t1": 17.983,
+   "text": "In healthcare, AI agents now support diagnosis, triage and drug discovery."
+  },
+  {
+   "i": 12,
+   "beat": 29.5,
+   "t0": 18.438,
+   "t1": 20.136,
+   "text": "But governance hasn't kept pace."
+  },
+  {
+   "i": 4,
+   "beat": 32.75,
+   "t0": 20.469,
+   "t1": 22.109,
+   "text": "Models no one validated."
+  },
+  {
+   "i": 5,
+   "beat": 36.0,
+   "t0": 22.5,
+   "t1": 23.99,
+   "text": "Agents acting on their own."
+  },
+  {
+   "i": 6,
+   "beat": 39.25,
+   "t0": 24.531,
+   "t1": 25.891,
+   "text": "Patient data at risk."
+  },
+  {
+   "i": 13,
+   "beat": 42.75,
+   "t0": 26.719,
+   "t1": 29.079,
+   "text": "And the regulatory clock is already ticking."
+  },
+  {
+   "i": 14,
+   "beat": 48.25,
+   "t0": 30.156,
+   "t1": 34.566,
+   "text": "But the bigger risk is losing business before a regulator ever comes knocking."
+  },
+  {
+   "i": 7,
+   "beat": 55.75,
+   "t0": 34.844,
+   "t1": 37.715,
+   "text": "And regulators and hospitals now ask for proof."
+  },
+  {
+   "i": 15,
+   "beat": 62.0,
+   "t0": 38.75,
+   "t1": 42.145,
+   "text": "Niticore governs every model and agent, in one place."
+  },
+  {
+   "i": 16,
+   "beat": 68.0,
+   "t0": 42.5,
+   "t1": 43.77,
+   "text": "Every risk, assessed."
+  },
+  {
+   "i": 17,
+   "beat": 72.6,
+   "t0": 45.375,
+   "t1": 47.435,
+   "text": "Keep people in the loop when it matters most."
+  },
+  {
+   "i": 18,
+   "beat": 77.8,
+   "t0": 48.625,
+   "t1": 50.835,
+   "text": "Evidence ready for every audit and tender."
+  },
+  {
+   "i": 9,
+   "beat": 84.0,
+   "t0": 52.5,
+   "t1": 55.8,
+   "text": "So you can scale healthcare AI with confidence, and prove it."
+  },
+  {
+   "i": 10,
+   "beat": 93.6,
+   "t0": 58.5,
+   "t1": 59.39,
+   "text": "Niticore."
+  },
+  {
+   "i": 11,
+   "beat": 96.1,
+   "t0": 60.062,
+   "t1": 62.383,
+   "text": "AI governance, from policy to proof."
+  }
+ ],
+ "source": "niticore-healthcare-v2/audio/score.py, 96 bpm, D major (the launch film's opening)"
+}

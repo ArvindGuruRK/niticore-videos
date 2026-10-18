@@ -1,0 +1,128 @@
+[
+ {
+  "i": 0,
+  "beat": 2,
+  "t0": 1.25,
+  "t1": 3.27,
+  "text": "The world is accelerating with AI."
+ },
+ {
+  "i": 1,
+  "beat": 7,
+  "t0": 4.375,
+  "t1": 7.255,
+  "text": "Now, AI needs governance built for what's next."
+ },
+ {
+  "i": 2,
+  "beat": 15,
+  "t0": 9.375,
+  "t1": 10.815,
+  "text": "Introducing Niticore."
+ },
+ {
+  "i": 3,
+  "beat": 20.5,
+  "t0": 12.812,
+  "t1": 17.983,
+  "text": "In healthcare, AI agents now support diagnosis, triage and drug discovery."
+ },
+ {
+  "i": 12,
+  "beat": 29.5,
+  "t0": 18.438,
+  "t1": 20.136,
+  "text": "But governance hasn't kept pace."
+ },
+ {
+  "i": 4,
+  "beat": 32.75,
+  "t0": 20.469,
+  "t1": 22.109,
+  "text": "Models no one validated."
+ },
+ {
+  "i": 5,
+  "beat": 36.0,
+  "t0": 22.5,
+  "t1": 23.99,
+  "text": "Agents acting on their own."
+ },
+ {
+  "i": 6,
+  "beat": 39.25,
+  "t0": 24.531,
+  "t1": 25.891,
+  "text": "Patient data at risk."
+ },
+ {
+  "i": 13,
+  "beat": 42.75,
+  "t0": 26.719,
+  "t1": 29.079,
+  "text": "And the regulatory clock is already ticking."
+ },
+ {
+  "i": 14,
+  "beat": 48.25,
+  "t0": 30.156,
+  "t1": 34.566,
+  "text": "But the bigger risk is losing business before a regulator ever comes knocking."
+ },
+ {
+  "i": 7,
+  "beat": 55.75,
+  "t0": 34.844,
+  "t1": 37.715,
+  "text": "And regulators and hospitals now ask for proof."
+ },
+ {
+  "i": 15,
+  "beat": 62.0,
+  "t0": 38.75,
+  "t1": 42.145,
+  "text": "Niticore governs every model and agent, in one place."
+ },
+ {
+  "i": 16,
+  "beat": 68.0,
+  "t0": 42.5,
+  "t1": 43.77,
+  "text": "Every risk, assessed."
+ },
+ {
+  "i": 17,
+  "beat": 72.6,
+  "t0": 45.375,
+  "t1": 47.435,
+  "text": "Keep people in the loop when it matters most."
+ },
+ {
+  "i": 18,
+  "beat": 77.8,
+  "t0": 48.625,
+  "t1": 50.835,
+  "text": "Evidence ready for every audit and tender."
+ },
+ {
+  "i": 9,
+  "beat": 84.0,
+  "t0": 52.5,
+  "t1": 55.8,
+  "text": "So you can scale healthcare AI with confidence, and prove it."
+ },
+ {
+  "i": 10,
+  "beat": 93.6,
+  "t0": 58.5,
+  "t1": 59.39,
+  "text": "Niticore."
+ },
+ {
+  "i": 11,
+  "beat": 96.1,
+  "t0": 60.062,
+  "t1": 62.383,
+  "text": "AI governance, from policy to proof."
+ }
+]
