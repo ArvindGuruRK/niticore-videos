@@ -1,0 +1,16 @@
+# Stella the Standard, EU AI Act Module 2, Article 5. One phrase per line.
+Welcome to Article 5 of the EU AI Act: prohibited AI practices.
+I'm Stella the Standard, from the Bureau of Compliance.
+The EU AI Act sorts AI into four levels of risk.
+Minimal.
+Limited.
+High.
+And right at the top... unacceptable.
+Unacceptable risk isn't managed. It's banned outright.
+That rule has applied since the second of February, 2025.
+So, what's on the banned list?
+Social scoring.
+Harmful manipulation.
+Untargeted face scraping.
+That's Article 5, filed.
+Remember: a compliant system is a happy system!

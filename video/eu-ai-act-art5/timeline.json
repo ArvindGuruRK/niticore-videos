@@ -1,0 +1,12 @@
+{
+ "note": "Story beats (what the sets, HITS and the score's lines are timed in) -> film beats. Each transition replaces story [a0, b1] with L film beats; film.js draws the designed wipe there, score.py and the hit list are shifted to match.",
+ "storyBeats": 88,
+ "transitions": [
+  { "name": "titleCab", "a0": 18.0, "b1": 19.0, "L": 3.0 },
+  { "name": "cabFile", "a0": 37.0, "b1": 41.2, "L": 2.2 },
+  { "name": "cabCal", "a0": 46.3, "b1": 47.3, "L": 3.0 },
+  { "name": "calBoard", "a0": 55.4, "b1": 56.4, "L": 3.0 },
+  { "name": "boardDesk", "a0": 71.2, "b1": 72.6, "L": 3.4 },
+  { "name": "deskEnd", "a0": 75.8, "b1": 76.8, "L": 3.0 }
+ ]
+}
